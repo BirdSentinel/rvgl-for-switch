@@ -18,3 +18,7 @@ I am pleased to announce that RVGL has been ported to Switch! Huge thanks to [fg
 3. Put the release zip contents in it
 4. Obtain [game data](https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip) and put everything in `switch\rvgl` **except** _rvgl.exe_ and the _dll files_.
 5. Launch from **hbmenu**, enjoy!
+
+**Put the game to the home screen**
+
+If your game is located in **sdmc:/switch/rvgl** you can install the included .nsp forwarder to have an icon for it on the home screen like the other games.
